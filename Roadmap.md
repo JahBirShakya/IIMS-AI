@@ -16,6 +16,7 @@ AI deals with the science of making machines intelligent capable of achieving on
 * Act Humanly :- The Turing Test: An entity is intelligent if it cannot be distinguished from another intelligent entity by observing its behavior  {Focusing on things like don't answer too quickly, don't spell too well}
 * Think Rationally :- Uncertain because difficult to encode how to think, and in the end it's not about how you think, it's about how you end up acting
 * Act Rationally :- Rational Agent to achieve the optimum result i.e. maximizing your expected utility
+
 ![AI Perspectives](file:///C:/Users/HP/Downloads/AI.png)
 
 # History of AI
@@ -45,7 +46,7 @@ Agents and learning systems… “AI Spring”?
 * 2000—: Where are we now? > Big Data and Deep Learning
 
 # Foundations of AI:
-Personalities who laid the founding stone in which the AI today stands
+Personalities who laid the founding stone in which the AI today stands.
 ## Philosophy
 > Aristotle:Laws of mind |Ramon Llull:The Great Art |Leonardo Da Vinci |Wilhelm Schikard:Calculator |Blaise Pascal:Pascaline |Gottfried Wilhelm Leibniz |Thomas Hobbes:Artificial animal |Newell and Simon:General Problem Solver program |Alan Turing:The Turing Test |  
 ## Economics
