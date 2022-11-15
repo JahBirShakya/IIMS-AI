@@ -1,5 +1,7 @@
 # IIMS-A.I.
 
-Kindly review the attached link down below (Roadmap to AI) 
+Kindly review the Wiki tab to find the Assignment-1 (Roadmap to AI) 
 
-https://github.com/JahBirShakya/IIMS-A.I..wiki.git
+Or, click the link down below:
+
+https://github.com/JahBirShakya/IIMS-A.I./wiki
